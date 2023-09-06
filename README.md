@@ -24,7 +24,7 @@
 <a href="https://fb.com/python.kawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="python.kawsar" height="30" width="40" /></a>
 <a href="https://instagram.com/justin.kawchar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justin.kawchar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@knownaskawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@knownaskawsar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/curl-kawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="curl-kawsar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/curl-kawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="curlKawsar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
