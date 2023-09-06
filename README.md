@@ -46,6 +46,6 @@
 ### :writing_hand: My Resume : 
 <div>
 <a href=''>
- <img src="https://toppng.com/uploads/preview/pdf-icon-11549528510ilxx4eex38.png" title="pdf" alt="pdf" width="80" height="80"/>&nbsp;
+ <img src="https://toppng.com/uploads/preview/pdf-icon-11549528510ilxx4eex38.png" title="pdf" alt="pdf" width="80" height="80"/>
  </a>
 </div>
