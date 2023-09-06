@@ -1,4 +1,4 @@
-![logo](https://github.com/curl-kawsar/curl-kawsar/blob/main/THE%20MONTH%20%20OF.mp4)
+![logo]([https://github.com/curl-kawsar/curl-kawsar/blob/main/THE%20MONTH%20%20OF.mp4](https://github.com/curl-kawsar/curl-kawsar/blob/main/logo.gif))
 
 
 <h1 align="center">Hi 👋, I'm Md. Kawsar Ahmed</h1>
