@@ -34,4 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curl-kawsar&show_icons=true&locale=en&layout=compact" alt="curl-kawsar" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curl-kawsar&show_icons=true&locale=en" alt="curl-kawsar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curl-kawsar&" alt="curl-kawsar" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=curl-kawsar&" alt="curl-kawsar" /></p>
