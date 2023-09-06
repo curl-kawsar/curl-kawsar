@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Attendance Automation**
 
-- 🌱 I’m currently learning **Pyhton, C++, Web & Software Developing**
+- 🌱 I’m currently learning **Pyhton, C++, Machine Learing, Web & Software Developing**
 
 - 👨‍💻 All of my projects are available at [knownaskawsar.com](knownaskawsar.com)
 
-- 💬 Ask me about **Pyhton, C++**
+- 💬 Ask me about **Pyhton, C, C++**
 
 - 📫 Reach me **knownaskawsar@gmail.com**
 
