@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Pyhton, C++, Machine Learing, Web & Software Developing**
 
-- 👨‍💻 All of my projects are available at [knownaskawsar.com](knownaskawsar.com)
+- 👨‍💻 All of my projects are available at [knownaskawsar.com](https://curl-kawsar.github.io/knownaskawsar/)
 
 - 💬 Ask me about **Pyhton, C, C++**
 
