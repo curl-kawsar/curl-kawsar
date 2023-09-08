@@ -1,5 +1,5 @@
 ![logo](https://github.com/curl-kawsar/curl-kawsar/blob/main/new.jpg)
-
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum;Welcome+to+My+Profile"></a>
 <h1 align="center">Hi 👋, I'm Md. Kawsar Ahmed</h1>
 <h3 align="center">A Passionate Software and Frontend Developer from Bangladesh</h3>
 
