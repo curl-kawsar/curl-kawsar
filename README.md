@@ -45,7 +45,7 @@
 
 ### :writing_hand: My Resume : 
 <div>
-<a href=''>
+<a href='https://github.com/curl-kawsar/curl-kawsar/blob/main/myResume.jpg'>
  <img src="https://toppng.com/uploads/preview/pdf-icon-11549528510ilxx4eex38.png" title="pdf" alt="pdf" width="80" height="80"/>
  </a>
 </div>
