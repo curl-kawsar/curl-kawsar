@@ -83,62 +83,24 @@ contact: "knownaskawsar@gmail.com"
 <!-- GitHub Stats -->
 <h2 align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-    GitHub Metrics & Analytics
+    GitHub Analytics
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
 
 <!-- GitHub Trophy -->
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=curl-kawsar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Repositories,Commits,PullRequest,Issues,Stars" width="100%" alt="Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=curl-kawsar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy">
 </p>
 
 <p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=curl-kawsar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=400&ring_color=ff3068&line_height=30&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=curl-kawsar&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&card_width=400&ring_color=ff3068&line_height=30&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-        <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=curl-kawsar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=400&ring_color=ff3068&line_height=30&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=curl-kawsar&theme=radical&hide_border=true&card_width=400&fire=FF3068&ring=FF3068&currStreakLabel=FF3068">
-        <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=curl-kawsar&theme=default&hide_border=true&card_width=400&fire=FF3068&ring=FF3068&currStreakLabel=FF3068">
-        <img width="49%" alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=curl-kawsar&theme=radical&hide_border=true&card_width=400&fire=FF3068&ring=FF3068&currStreakLabel=FF3068">
-    </picture>
-</p>
-
-<!-- Productive Time -->
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=curl-kawsar&theme=radical&hide_border=true&layout=compact&langs_count=10&custom_title=Most%20Active%20Coding%20Hours">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=curl-kawsar&theme=default&hide_border=true&layout=compact&langs_count=10&custom_title=Most%20Active%20Coding%20Hours">
-        <img width="49%" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=curl-kawsar&theme=radical&hide_border=true&layout=compact&langs_count=10&custom_title=Most%20Active%20Coding%20Hours">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=curl-kawsar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=400">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=curl-kawsar&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=400">
-        <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curl-kawsar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=400">
-    </picture>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=curl-kawsar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
+    <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=curl-kawsar&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=curl-kawsar&theme=radical&hide_border=true&area=true&point=ff3068&line=ff3068&area_color=ff3068&custom_title=Contribution%20Graph">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=curl-kawsar&theme=minimal&hide_border=true&area=true&point=ff3068&line=ff3068&area_color=ff3068&custom_title=Contribution%20Graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=curl-kawsar&theme=radical&hide_border=true&area=true&point=ff3068&line=ff3068&area_color=ff3068&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph">
-    </picture>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=curl-kawsar&theme=react-dark&hide_border=true&area=true" width="100%">
 </p>
-
-<!-- Metrics Plugin -->
-<p align="center">
-    <img src="https://github.com/curl-kawsar/curl-kawsar/blob/main/github-metrics.svg" alt="Detailed Github Metrics" width="100%">
-</p>
-
-<!-- Contribution Snake -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/curl-kawsar/curl-kawsar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/curl-kawsar/curl-kawsar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/curl-kawsar/curl-kawsar/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
 
 <!-- Resume Section -->
 <h2 align="center">
