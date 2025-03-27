@@ -47,39 +47,42 @@
   </table>
 
   <div align="center">
-    <img src="https://img.shields.io/badge/🌍_BANGLADESH-black?style=for-the-badge&logo=&logoColor=white&labelColor=00FFB3"/>
+    <img src="https://img.shields.io/badge/🌍_BANGLADESH-000000?style=flat-square&logoColor=00FFB3"/>
   </div>
 
   <br>
 
   <div align="center">
-    <img src="https://img.shields.io/badge/TECH_STACK-black?style=for-the-badge&logo=&logoColor=black&labelColor=00FFB3"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=00FFB3"/>
-    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=00FFB3"/>
-    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=00FFB3"/>
-    <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=00FFB3"/>
-    <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=00FFB3"/>
+    <h2>TECH STACK</h2>
+    <p>
+      <img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square&logoColor=00FFB3"/>
+      <img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logoColor=00FFB3"/>
+      <img src="https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logoColor=00FFB3"/>
+      <img src="https://img.shields.io/badge/MONGODB-000000?style=flat-square&logoColor=00FFB3"/>
+      <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logoColor=00FFB3"/>
+    </p>
   </div>
 
   <br>
 
   <div align="center">
-    <img src="https://img.shields.io/badge/EDUCATION-black?style=for-the-badge&logo=&logoColor=black&labelColor=00FFB3"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/Software_Engineering-black?style=for-the-badge&logo=&logoColor=00FFB3"/>
-    <img src="https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge&logo=&logoColor=00FFB3"/>
-    <img src="https://img.shields.io/badge/Artificial_Intelligence-black?style=for-the-badge&logo=&logoColor=00FFB3"/>
+    <h2>EDUCATION</h2>
+    <p>
+      <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-000000?style=flat-square&logoColor=00FFB3"/>
+      <img src="https://img.shields.io/badge/MACHINE_LEARNING-000000?style=flat-square&logoColor=00FFB3"/>
+      <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-000000?style=flat-square&logoColor=00FFB3"/>
+    </p>
   </div>
 
   <br>
 
   <div align="center">
-    <img src="https://img.shields.io/badge/2024_GOALS-black?style=for-the-badge&logo=&logoColor=black&labelColor=00FFB3"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/Master_Cloud_Architecture-black?style=for-the-badge&logo=&logoColor=00FFB3"/>
-    <img src="https://img.shields.io/badge/Launch_AI_Projects-black?style=for-the-badge&logo=&logoColor=00FFB3"/>
-    <img src="https://img.shields.io/badge/Lead_Open_Source-black?style=for-the-badge&logo=&logoColor=00FFB3"/>
+    <h2>2024 GOALS</h2>
+    <p>
+      <img src="https://img.shields.io/badge/MASTER_CLOUD_ARCHITECTURE-000000?style=flat-square&logoColor=00FFB3"/>
+      <img src="https://img.shields.io/badge/LAUNCH_AI_PROJECTS-000000?style=flat-square&logoColor=00FFB3"/>
+      <img src="https://img.shields.io/badge/LEAD_OPEN_SOURCE-000000?style=flat-square&logoColor=00FFB3"/>
+    </p>
   </div>
 </div>
 
@@ -122,19 +125,19 @@
 <!-- Matrix-style Connect Section -->
 <div align="center" style="margin: 20px 0;">
   <a href="https://linkedin.com/in/curl-kawsar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF2E63?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FFB3" alt="linkedin"/>
   </a>
   <a href="https://fb.com/python.kawsar" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-08D9D6?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=00FFB3" alt="facebook"/>
   </a>
   <a href="https://instagram.com/justin.kawchar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF2E63?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=00FFB3" alt="instagram"/>
   </a>
   <a href="https://www.hackerrank.com/@knownaskawsar" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-08D9D6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank"/>
+    <img src="https://img.shields.io/badge/HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=00FFB3" alt="hackerrank"/>
   </a>
   <a href="https://codeforces.com/profile/curl-kawsar" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-FF2E63?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-000000?style=flat-square&logo=codeforces&logoColor=00FFB3" alt="codeforces"/>
   </a>
 </div>
 
