@@ -1,51 +1,78 @@
-![logo](https://github.com/curl-kawsar/curl-kawsar/blob/main/profile.jpg)
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum+Everyone;Welcome+to+My+Github+Profile"></a>
-<h1 align="center">Hi 👋, I'm Md. Kawsar Ahmed</h1>
-<h3 align="center">A Passionate Software and Frontend Developer from Bangladesh</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=MD.%20Kawsar%20Ahmed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Passionate%20Software%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=51&descAlign=62)
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=curl-kawsar&label=Profile%20views&color=0e75b6&style=flat" alt="curl-kawsar" /></p>
-
-- 🔭 I’m currently working on **Attendance Automation**
-
-- 🌱 I’m currently learning **Pyhton, C++, Machine Learing, Web & Software Developing**
-
-- 👨‍💻 All of my projects are available at [knownaskawsar.com](https://curl-kawsar.github.io/knownaskawsar/)
-
-- 💬 Ask me about **Pyhton, C, C++**
-
-- 📫 Reach me **knownaskawsar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<!-- Profile Views Counter -->
 <p align="left">
-<a href="https://linkedin.com/in/curl-kawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="curl-kawsar" height="30" width="40" /></a>
-<a href="https://fb.com/python.kawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="python.kawsar" height="30" width="40" /></a>
-<a href="https://instagram.com/justin.kawchar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justin.kawchar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@knownaskawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="knownaskawsar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/curl-kawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="curlKawsar" height="30" width="40" /></a>
+    <img src="https://komarev.com/ghpvc/?username=curl-kawsar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> </a> </p>
+<!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&lines=Assalamu+Alaikum+Everyone!;Welcome+to+my+Digital+Universe!;Where+Code+Meets+Creativity;Building+the+Future+with+Every+Commit" alt="Typing SVG">
+    </a>
+</p>
 
-
----
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curl-kawsar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=curl-kawsar&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![curls's github stats](https://github-readme-stats.vercel.app/api?username=curl-kawsar&count_private=true&theme=tokyonight&hide=contribs,prs)
----
-
-
-### :writing_hand: My Resume : 
-<div>
-<a href='https://drive.google.com/file/d/1UmrOM6iUlRoSMsmIonBuguVNwM2y3bOL/view?usp=drive_link'>
- <img src="https://toppng.com/uploads/preview/pdf-icon-11549528510ilxx4eex38.png" title="pdf" alt="pdf" width="80" height="80"/>
- </a>
+<!-- About Me Section -->
+<h2 align="center">🌟 About Me 🌟</h2>
+<div align="center">
+    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </div>
+
+```[!NOTE]
+> 🔭 Currently crafting: **Attendance Automation System**
+> 🌱 Expanding knowledge in: **Python, C++, ML & Web Development**
+> 👨‍💻 Portfolio: [knownaskawsar.com](https://curl-kawsar.github.io/knownaskawsar/)
+> 💡 Expertise: **Python, C, C++**
+> 📫 Contact: **knownaskawsar@gmail.com**
+```
+
+<!-- Tech Stack -->
+<h2 align="center">⚡ Technology Arsenal ⚡</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript,react,nodejs,mongodb,mysql,php,tensorflow,git,vscode&perline=7" />
+</div>
+
+<!-- Connect with me -->
+<h2 align="center">🌐 Digital Presence 🌐</h2>
+<div align="center">
+    <a href="https://linkedin.com/in/curl-kawsar" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
+    <a href="https://fb.com/python.kawsar" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+    </a>
+    <a href="https://instagram.com/justin.kawchar" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+    </a>
+    <a href="https://www.hackerrank.com/@knownaskawsar" target="_blank">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
+    </a>
+    <a href="https://codeforces.com/profile/curl-kawsar" target="_blank">
+        <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces"/>
+    </a>
+</div>
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Analytics 📊</h2>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=curl-kawsar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=curl-kawsar&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curl-kawsar&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+<!-- Resume Section -->
+<h2 align="center">📄 Professional Journey 📄</h2>
+<div align="center">
+    <a href='https://drive.google.com/file/d/1umrom6iulrosmsmionbuguvnwm2y3bol/view?usp=drive_link'>
+        <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume"/>
+    </a>
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
