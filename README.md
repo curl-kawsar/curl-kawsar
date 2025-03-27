@@ -30,79 +30,38 @@
 </h2>
 
 <div align="center">
-  <!-- Main Card -->
-  <div style="background: #252A34; padding: 25px; border-radius: 20px; margin: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 46, 99, 0.18);">
+  <div style="background: #252A34; padding: 20px; border-radius: 10px; margin: 20px; box-shadow: 0 0 10px #FF2E63;">
+    <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
     
-    <!-- Profile Image and Name Card -->
-    <div style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img align="left" alt="Profile" width="100" style="border-radius: 50%; margin-right: 20px;" src="https://avatars.githubusercontent.com/u/curl-kawsar" />
-      <div style="text-align: left;">
-        <h3 style="color: #FF2E63; margin: 0;">Md. Kawsar Ahmed</h3>
-        <p style="color: #08D9D6; margin: 5px 0;">Software Developer & AI Enthusiast</p>
-        <p style="color: #FFFFFF;">🌍 Bangladesh</p>
-      </div>
-    </div>
-
-    <!-- Current Focus Card -->
-    <div style="background: rgba(255, 46, 99, 0.1); padding: 15px; border-radius: 15px; margin: 10px 0; border-left: 4px solid #FF2E63;">
-      <h4 style="color: #FF2E63; margin: 0;">Current Focus</h4>
-      <p style="color: #FFFFFF; margin: 5px 0;">🎯 Attendance Automation System</p>
-      <p style="color: #08D9D6;">Using Python, ML & Computer Vision</p>
-    </div>
-
-    <!-- Main Content Grid -->
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px;">
-      <!-- Education Card -->
-      <div style="background: rgba(8, 217, 214, 0.1); padding: 15px; border-radius: 15px; border-left: 4px solid #08D9D6;">
-        <h4 style="color: #08D9D6; margin: 0;">Education</h4>
-        <ul style="color: #FFFFFF; list-style-type: none; padding-left: 0; margin: 10px 0;">
-          <li>🎓 Software Engineering</li>
-          <li>🤖 Machine Learning</li>
-          <li>🧠 Artificial Intelligence</li>
-        </ul>
-      </div>
-
-      <!-- Expertise Card -->
-      <div style="background: rgba(255, 46, 99, 0.1); padding: 15px; border-radius: 15px; border-left: 4px solid #FF2E63;">
-        <h4 style="color: #FF2E63; margin: 0;">Expertise</h4>
-        <ul style="color: #FFFFFF; list-style-type: none; padding-left: 0; margin: 10px 0;">
-          <li>💻 Full Stack Development</li>
-          <li>🐍 Python & C++</li>
-          <li>☁️ Cloud & DevOps</li>
-        </ul>
-      </div>
-
-      <!-- 2024 Goals Card -->
-      <div style="background: rgba(8, 217, 214, 0.1); padding: 15px; border-radius: 15px; border-left: 4px solid #08D9D6;">
-        <h4 style="color: #08D9D6; margin: 0;">2024 Goals</h4>
-        <ul style="color: #FFFFFF; list-style-type: none; padding-left: 0; margin: 10px 0;">
-          <li>🎯 Master Cloud Technologies</li>
-          <li>🤝 Contribute to Open Source</li>
-          <li>🚀 Launch AI Projects</li>
-        </ul>
-      </div>
-
-      <!-- Currently Learning Card -->
-      <div style="background: rgba(255, 46, 99, 0.1); padding: 15px; border-radius: 15px; border-left: 4px solid #FF2E63;">
-        <h4 style="color: #FF2E63; margin: 0;">Learning</h4>
-        <ul style="color: #FFFFFF; list-style-type: none; padding-left: 0; margin: 10px 0;">
-          <li>📚 Advanced ML Algorithms</li>
-          <li>🏗️ System Architecture</li>
-          <li>🔄 DevOps Practices</li>
-        </ul>
-      </div>
-    </div>
-
-    <!-- Fun Fact Card -->
-    <div style="background: linear-gradient(135deg, rgba(8, 217, 214, 0.1) 0%, rgba(255, 46, 99, 0.1) 100%); padding: 15px; border-radius: 15px; margin-top: 20px; text-align: center; border: 1px solid rgba(255, 255, 255, 0.1);">
-      <p style="color: #FFFFFF; margin: 0;">
-        <span style="color: #08D9D6;">⚡ Fun Fact:</span> 
-        <span style="color: #FF2E63;">I turn</span> 
-        <span style="color: #FFFFFF;">☕</span> 
-        <span style="color: #FF2E63;">into</span> 
-        <span style="color: #08D9D6;">&lt;code /&gt;</span>
-      </p>
-    </div>
+```javascript
+const profile = {
+  name: "Md. Kawsar Ahmed",
+  title: "Software Developer & AI Enthusiast",
+  location: "Bangladesh 🇧🇩",
+  education: {
+    degree: "Software Engineering",
+    specializations: ["Machine Learning", "Artificial Intelligence"],
+    status: "Continuous Learner"
+  },
+  currentFocus: {
+    project: "Attendance Automation System",
+    technologies: ["Python", "ML", "Computer Vision"],
+    goal: "Building Intelligent Solutions"
+  },
+  expertise: {
+    languages: ["Python", "C++", "JavaScript"],
+    webDev: ["React", "Node.js", "MongoDB"],
+    ai_ml: ["TensorFlow", "PyTorch", "OpenCV"],
+    cloud: ["AWS", "Docker", "DevOps"]
+  },
+  2024_roadmap: {
+    learning: ["Advanced ML", "Cloud Architecture", "System Design"],
+    goals: ["Open Source", "AI Projects", "Cloud Mastery"],
+    mission: "Innovate & Create Impact"
+  },
+  funFact: "I turn ☕ into <code />"
+};
+```
   </div>
 </div>
 
