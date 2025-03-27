@@ -55,15 +55,17 @@
   <div align="center">
     <h2>
       <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> 
-      TECH STACK
+      <span style="background: linear-gradient(to right, #00FFB3, #00B4D8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">TECH STACK</span>
     </h2>
-    <p align="center">
-      <a href="#"><img src="https://img.shields.io/badge/PYTHON-%23000.svg?style=for-the-badge&logo=python&logoColor=00FFB3&labelColor=000000"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/REACT-%23000.svg?style=for-the-badge&logo=react&logoColor=00FFB3&labelColor=000000"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/NODE.JS-%23000.svg?style=for-the-badge&logo=node.js&logoColor=00FFB3&labelColor=000000"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/MONGODB-%23000.svg?style=for-the-badge&logo=mongodb&logoColor=00FFB3&labelColor=000000"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/AWS-%23000.svg?style=for-the-badge&logo=amazon-aws&logoColor=00FFB3&labelColor=000000"/></a>
-    </p>
+    <div style="background: linear-gradient(45deg, rgba(0,0,0,0.8), rgba(0,0,0,0.9)); border-radius: 10px; padding: 20px; margin: 10px;">
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/PYTHON-%23000.svg?style=for-the-badge&logo=python&logoColor=00FFB3&labelColor=000000"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/REACT-%23000.svg?style=for-the-badge&logo=react&logoColor=00FFB3&labelColor=000000"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/NODE.JS-%23000.svg?style=for-the-badge&logo=node.js&logoColor=00FFB3&labelColor=000000"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/MONGODB-%23000.svg?style=for-the-badge&logo=mongodb&logoColor=00FFB3&labelColor=000000"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/AWS-%23000.svg?style=for-the-badge&logo=amazon-aws&logoColor=00FFB3&labelColor=000000"/></a>
+      </p>
+    </div>
   </div>
 
   <br>
@@ -71,13 +73,15 @@
   <div align="center">
     <h2>
       <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="25">
-      EDUCATION
+      <span style="background: linear-gradient(to right, #00FFB3, #00B4D8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">EDUCATION</span>
     </h2>
-    <p align="center">
-      <a href="#"><img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-%23000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=00FFB3&labelColor=000000"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/MACHINE_LEARNING-%23000.svg?style=for-the-badge&logo=tensorflow&logoColor=00FFB3&labelColor=000000"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-%23000.svg?style=for-the-badge&logo=openai&logoColor=00FFB3&labelColor=000000"/></a>
-    </p>
+    <div style="background: linear-gradient(45deg, rgba(0,0,0,0.8), rgba(0,0,0,0.9)); border-radius: 10px; padding: 20px; margin: 10px;">
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/⚡_SOFTWARE_ENGINEERING-%23000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=00FFB3&labelColor=000000"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/🧠_MACHINE_LEARNING-%23000.svg?style=for-the-badge&logo=tensorflow&logoColor=00FFB3&labelColor=000000"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/🤖_ARTIFICIAL_INTELLIGENCE-%23000.svg?style=for-the-badge&logo=openai&logoColor=00FFB3&labelColor=000000"/></a>
+      </p>
+    </div>
   </div>
 
   <br>
@@ -85,13 +89,15 @@
   <div align="center">
     <h2>
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
-      2024 GOALS
+      <span style="background: linear-gradient(to right, #00FFB3, #00B4D8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">2024 GOALS</span>
     </h2>
-    <p align="center">
-      <a href="#"><img src="https://img.shields.io/badge/🚀_MASTER_CLOUD_ARCHITECTURE-%23000.svg?style=for-the-badge&logoColor=00FFB3&labelColor=000000"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/🤖_LAUNCH_AI_PROJECTS-%23000.svg?style=for-the-badge&logoColor=00FFB3&labelColor=000000"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/🌟_LEAD_OPEN_SOURCE-%23000.svg?style=for-the-badge&logoColor=00FFB3&labelColor=000000"/></a>
-    </p>
+    <div style="background: linear-gradient(45deg, rgba(0,0,0,0.8), rgba(0,0,0,0.9)); border-radius: 10px; padding: 20px; margin: 10px;">
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/🚀_MASTER_CLOUD_ARCHITECTURE-%23000.svg?style=for-the-badge&logoColor=00FFB3&labelColor=000000"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/🤖_LAUNCH_AI_PROJECTS-%23000.svg?style=for-the-badge&logoColor=00FFB3&labelColor=000000"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/🌟_LEAD_OPEN_SOURCE-%23000.svg?style=for-the-badge&logoColor=00FFB3&labelColor=000000"/></a>
+      </p>
+    </div>
   </div>
 </div>
 
