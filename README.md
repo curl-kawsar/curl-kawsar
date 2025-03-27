@@ -25,76 +25,81 @@
 <!-- Animated About Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px" height="30px">
-  <span style="color: #FF2E63;">About Me</span>
+  <span style="color: #7C3AED;">About Me</span>
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px" height="30px">
 </h2>
 
 <div align="center">
+  <!-- Profile Section with Animation -->
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://avatars.githubusercontent.com/u/curl-kawsar" width="200" height="200" style="border-radius: 50%;" alt="Profile"/>
+        <img src="https://avatars.githubusercontent.com/u/curl-kawsar" width="200" height="200" style="border-radius: 50%; border: 4px solid #7C3AED;" alt="Profile"/>
         <br>
-        <h3>Md. Kawsar Ahmed</h3>
-        <b>Software Developer & AI Enthusiast</b>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=300&lines=Md.+Kawsar+Ahmed;Software+Developer;AI+Enthusiast" alt="Typing SVG"/>
         <br>
-        🌍 Bangladesh
+        <img src="https://img.shields.io/badge/🌍-Bangladesh-7C3AED?style=for-the-badge&logoColor=white"/>
       </td>
-      <td align="left" width="50%">
-        <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+      <td align="right" width="50%">
+        <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
       </td>
     </tr>
   </table>
 
   <br>
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Focus-Attendance%20Automation-FF2E63?style=for-the-badge&logo=target&logoColor=white" alt="Current Focus"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/Using-Python%20|%20ML%20|%20CV-08D9D6?style=for-the-badge&logo=python&logoColor=white" alt="Technologies"/>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
+  <!-- Skills Section with Animations -->
   <table>
     <tr>
       <td>
-        <h4>💻 Tech Stack</h4>
-        <img src="https://img.shields.io/badge/Python-FF2E63?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-08D9D6?style=for-the-badge&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-FF2E63?style=for-the-badge&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-08D9D6?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-FF2E63?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <h4>
+          <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
+          Tech Arsenal
+        </h4>
+        <img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-06B6D4?style=for-the-badge&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-7C3AED?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-06B6D4?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-7C3AED?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-06B6D4?style=for-the-badge&logo=docker&logoColor=white"/>
       </td>
     </tr>
     <tr>
       <td>
-        <h4>🎯 2024 Goals</h4>
-        <img src="https://img.shields.io/badge/1-Master%20Cloud%20Tech-FF2E63?style=for-the-badge&logoColor=white"/>
-        <img src="https://img.shields.io/badge/2-Launch%20AI%20Projects-08D9D6?style=for-the-badge&logoColor=white"/>
-        <img src="https://img.shields.io/badge/3-Open%20Source-FF2E63?style=for-the-badge&logoColor=white"/>
+        <h4>
+          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+          2024 Mission
+        </h4>
+        <img src="https://img.shields.io/badge/🎯_Master_Cloud_Architecture-7C3AED?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/🚀_Launch_AI_Projects-06B6D4?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/🌟_Lead_Open_Source-7C3AED?style=for-the-badge"/>
       </td>
     </tr>
     <tr>
       <td>
-        <h4>🎓 Education & Expertise</h4>
-        <img src="https://img.shields.io/badge/Degree-Software%20Engineering-FF2E63?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Focus-Machine%20Learning-08D9D6?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Specialization-AI-FF2E63?style=for-the-badge&logo=ai&logoColor=white"/>
+        <h4>
+          <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="25">
+          Education & Expertise
+        </h4>
+        <img src="https://img.shields.io/badge/🎓_Software_Engineering-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/🤖_Machine_Learning-06B6D4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/🧠_Artificial_Intelligence-7C3AED?style=for-the-badge&logo=ai&logoColor=white"/>
       </td>
     </tr>
   </table>
 
   <br>
 
+  <!-- Animated Fun Fact -->
   <div align="center">
-    <img src="https://img.shields.io/badge/⚡%20Fun%20Fact-I%20turn%20☕%20into%20<code/>-08D9D6?style=for-the-badge&logoColor=white"/>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=410&lines=⚡+Fun+Fact:+I+turn+☕+into+<code/>+daily" alt="Fun Fact Typing SVG"/>
+    </a>
   </div>
 </div>
+
+<!-- Add some space -->
+<br>
 
 <!-- Tech Stack with Animated Icons -->
 <h2 align="center">
