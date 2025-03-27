@@ -30,115 +30,71 @@
 </h2>
 
 <div align="center">
-  <!-- Animated Terminal Card -->
-  <div style="background: #252A34; padding: 25px; border-radius: 20px; margin: 20px; position: relative; overflow: hidden;">
-    <!-- Terminal Header -->
-    <div style="background: rgba(255, 46, 99, 0.1); padding: 10px; border-radius: 10px 10px 0 0; margin-bottom: 20px; display: flex; align-items: center;">
-      <span style="height: 12px; width: 12px; background-color: #FF2E63; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
-      <span style="height: 12px; width: 12px; background-color: #08D9D6; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
-      <span style="height: 12px; width: 12px; background-color: #FFFFFF; border-radius: 50%; display: inline-block;"></span>
-      <span style="color: #FF2E63; margin-left: 20px; font-family: 'Fira Code', monospace;">kawsar@digital-universe:~$ whoami</span>
-    </div>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://avatars.githubusercontent.com/u/curl-kawsar" width="200" height="200" style="border-radius: 50%;" alt="Profile"/>
+        <br>
+        <h3>Md. Kawsar Ahmed</h3>
+        <b>Software Developer & AI Enthusiast</b>
+        <br>
+        🌍 Bangladesh
+      </td>
+      <td align="left" width="50%">
+        <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+      </td>
+    </tr>
+  </table>
 
-    <!-- Profile Content -->
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-      <!-- Left Column -->
-      <div style="position: relative;">
-        <!-- Profile Image with Glowing Effect -->
-        <div style="position: relative; width: 200px; height: 200px; margin: 0 auto 20px;">
-          <img src="https://avatars.githubusercontent.com/u/curl-kawsar" alt="Profile" style="width: 100%; height: 100%; border-radius: 20px; object-fit: cover; position: relative; z-index: 1;">
-          <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(45deg, #FF2E63, #08D9D6); opacity: 0.5; filter: blur(20px); z-index: 0;"></div>
-        </div>
+  <br>
 
-        <!-- Quick Info -->
-        <div style="text-align: center; position: relative; padding: 20px; background: rgba(255, 46, 99, 0.1); border-radius: 15px; border: 1px solid rgba(255, 46, 99, 0.3);">
-          <h3 style="color: #FF2E63; margin: 0;">Md. Kawsar Ahmed</h3>
-          <p style="color: #08D9D6; margin: 5px 0;">Software Developer & AI Enthusiast</p>
-          <p style="color: #FFFFFF;">🌍 Bangladesh</p>
-        </div>
-      </div>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Focus-Attendance%20Automation-FF2E63?style=for-the-badge&logo=target&logoColor=white" alt="Current Focus"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Using-Python%20|%20ML%20|%20CV-08D9D6?style=for-the-badge&logo=python&logoColor=white" alt="Technologies"/>
+      </td>
+    </tr>
+  </table>
 
-      <!-- Right Column -->
-      <div style="display: flex; flex-direction: column; gap: 15px;">
-        <!-- Current Project -->
-        <div style="background: linear-gradient(135deg, rgba(8, 217, 214, 0.1) 0%, rgba(255, 46, 99, 0.1) 100%); padding: 15px; border-radius: 15px; border-left: 4px solid #FF2E63;">
-          <h4 style="color: #FF2E63; margin: 0; display: flex; align-items: center;">
-            <span style="background: #FF2E63; width: 8px; height: 8px; display: inline-block; margin-right: 8px; border-radius: 50%; animation: pulse 2s infinite;"></span>
-            Current Project
-          </h4>
-          <p style="color: #FFFFFF; margin: 10px 0;">Attendance Automation System</p>
-          <div style="display: flex; gap: 10px;">
-            <span style="background: rgba(8, 217, 214, 0.2); color: #08D9D6; padding: 5px 10px; border-radius: 10px; font-size: 0.9em;">Python</span>
-            <span style="background: rgba(255, 46, 99, 0.2); color: #FF2E63; padding: 5px 10px; border-radius: 10px; font-size: 0.9em;">ML</span>
-            <span style="background: rgba(255, 255, 255, 0.2); color: #FFFFFF; padding: 5px 10px; border-radius: 10px; font-size: 0.9em;">CV</span>
-          </div>
-        </div>
+  <br>
 
-        <!-- Skills Matrix -->
-        <div style="background: rgba(8, 217, 214, 0.1); padding: 15px; border-radius: 15px; border: 1px solid rgba(8, 217, 214, 0.3);">
-          <h4 style="color: #08D9D6; margin: 0 0 10px 0;">Tech Arsenal</h4>
-          <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-            <div style="background: linear-gradient(135deg, #FF2E63 0%, #08D9D6 100%); padding: 1px; border-radius: 15px;">
-              <div style="background: #252A34; padding: 5px 10px; border-radius: 14px;">
-                <span style="color: #FFFFFF;">Python</span>
-              </div>
-            </div>
-            <div style="background: linear-gradient(135deg, #08D9D6 0%, #FF2E63 100%); padding: 1px; border-radius: 15px;">
-              <div style="background: #252A34; padding: 5px 10px; border-radius: 14px;">
-                <span style="color: #FFFFFF;">React</span>
-              </div>
-            </div>
-            <div style="background: linear-gradient(135deg, #FF2E63 0%, #08D9D6 100%); padding: 1px; border-radius: 15px;">
-              <div style="background: #252A34; padding: 5px 10px; border-radius: 14px;">
-                <span style="color: #FFFFFF;">ML/AI</span>
-              </div>
-            </div>
-          </div>
-        </div>
+  <table>
+    <tr>
+      <td>
+        <h4>💻 Tech Stack</h4>
+        <img src="https://img.shields.io/badge/Python-FF2E63?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-08D9D6?style=for-the-badge&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-FF2E63?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-08D9D6?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-FF2E63?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>🎯 2024 Goals</h4>
+        <img src="https://img.shields.io/badge/1-Master%20Cloud%20Tech-FF2E63?style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/2-Launch%20AI%20Projects-08D9D6?style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/3-Open%20Source-FF2E63?style=for-the-badge&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>🎓 Education & Expertise</h4>
+        <img src="https://img.shields.io/badge/Degree-Software%20Engineering-FF2E63?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Focus-Machine%20Learning-08D9D6?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Specialization-AI-FF2E63?style=for-the-badge&logo=ai&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
 
-        <!-- Goals Timeline -->
-        <div style="background: rgba(255, 46, 99, 0.1); padding: 15px; border-radius: 15px; position: relative;">
-          <h4 style="color: #FF2E63; margin: 0 0 10px 0;">2024 Mission</h4>
-          <div style="display: flex; flex-direction: column; gap: 10px;">
-            <div style="display: flex; align-items: center; gap: 10px;">
-              <span style="color: #08D9D6;">01</span>
-              <div style="flex-grow: 1; height: 2px; background: linear-gradient(90deg, #08D9D6 50%, rgba(8, 217, 214, 0.2) 50%);"></div>
-              <span style="color: #FFFFFF;">Master Cloud Tech</span>
-            </div>
-            <div style="display: flex; align-items: center; gap: 10px;">
-              <span style="color: #08D9D6;">02</span>
-              <div style="flex-grow: 1; height: 2px; background: linear-gradient(90deg, #FF2E63 70%, rgba(255, 46, 99, 0.2) 30%);"></div>
-              <span style="color: #FFFFFF;">Launch AI Projects</span>
-            </div>
-            <div style="display: flex; align-items: center; gap: 10px;">
-              <span style="color: #08D9D6;">03</span>
-              <div style="flex-grow: 1; height: 2px; background: linear-gradient(90deg, #FFFFFF 30%, rgba(255, 255, 255, 0.2) 70%);"></div>
-              <span style="color: #FFFFFF;">Open Source</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+  <br>
 
-    <!-- Fun Fact Terminal Line -->
-    <div style="margin-top: 20px; padding: 15px; background: rgba(8, 217, 214, 0.1); border-radius: 0 0 10px 10px; font-family: 'Fira Code', monospace;">
-      <span style="color: #FF2E63;">kawsar@digital-universe:~$</span>
-      <span style="color: #08D9D6;"> echo</span>
-      <span style="color: #FFFFFF;"> $FUN_FACT</span>
-      <p style="color: #FFFFFF; margin: 10px 0;">
-        <span style="color: #FF2E63;">[</span> I turn ☕ into <span style="color: #08D9D6;">&lt;code /&gt;</span> <span style="color: #FF2E63;">]</span>
-      </p>
-    </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/⚡%20Fun%20Fact-I%20turn%20☕%20into%20<code/>-08D9D6?style=for-the-badge&logoColor=white"/>
   </div>
 </div>
-
-<style>
-@keyframes pulse {
-  0% { box-shadow: 0 0 0 0 rgba(255, 46, 99, 0.4); }
-  70% { box-shadow: 0 0 0 10px rgba(255, 46, 99, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(255, 46, 99, 0); }
-}
-</style>
 
 <!-- Tech Stack with Animated Icons -->
 <h2 align="center">
