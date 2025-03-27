@@ -24,81 +24,65 @@
 
 <!-- Animated About Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px" height="30px">
-  <span style="color: #7C3AED;">About Me</span>
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px" height="30px">
+  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" width="32">
+  About Me
+  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" width="32">
 </h2>
 
 <div align="center">
-  <!-- Profile Section with Animation -->
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://avatars.githubusercontent.com/u/curl-kawsar" width="200" height="200" style="border-radius: 50%; border: 4px solid #7C3AED;" alt="Profile"/>
+  <table border="0" align="center">
+    <tr border="0">
+      <td width="50%" align="center">
+        <img src="https://avatars.githubusercontent.com/u/curl-kawsar" width="100%" style="border-radius: 10px;" alt="Profile"/>
         <br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=300&lines=Md.+Kawsar+Ahmed;Software+Developer;AI+Enthusiast" alt="Typing SVG"/>
         <br>
-        <img src="https://img.shields.io/badge/🌍-Bangladesh-7C3AED?style=for-the-badge&logoColor=white"/>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=380&height=50&lines=Software+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+        </a>
       </td>
-      <td align="right" width="50%">
-        <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+      <td width="50%" align="center">
+        <img align="center" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%"/>
       </td>
     </tr>
   </table>
 
-  <br>
-
-  <!-- Skills Section with Animations -->
-  <table>
-    <tr>
-      <td>
-        <h4>
-          <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
-          Tech Arsenal
-        </h4>
-        <img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-06B6D4?style=for-the-badge&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-7C3AED?style=for-the-badge&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-06B6D4?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-7C3AED?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-06B6D4?style=for-the-badge&logo=docker&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h4>
-          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-          2024 Mission
-        </h4>
-        <img src="https://img.shields.io/badge/🎯_Master_Cloud_Architecture-7C3AED?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/🚀_Launch_AI_Projects-06B6D4?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/🌟_Lead_Open_Source-7C3AED?style=for-the-badge"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h4>
-          <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="25">
-          Education & Expertise
-        </h4>
-        <img src="https://img.shields.io/badge/🎓_Software_Engineering-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/🤖_Machine_Learning-06B6D4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/🧠_Artificial_Intelligence-7C3AED?style=for-the-badge&logo=ai&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- Animated Fun Fact -->
   <div align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=410&lines=⚡+Fun+Fact:+I+turn+☕+into+<code/>+daily" alt="Fun Fact Typing SVG"/>
-    </a>
+    <img src="https://img.shields.io/badge/🌍_BANGLADESH-black?style=for-the-badge&logo=&logoColor=white&labelColor=00FFB3"/>
+  </div>
+
+  <br>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/TECH_STACK-black?style=for-the-badge&logo=&logoColor=black&labelColor=00FFB3"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=00FFB3"/>
+    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=00FFB3"/>
+    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=00FFB3"/>
+    <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=00FFB3"/>
+    <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=00FFB3"/>
+  </div>
+
+  <br>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/EDUCATION-black?style=for-the-badge&logo=&logoColor=black&labelColor=00FFB3"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/Software_Engineering-black?style=for-the-badge&logo=&logoColor=00FFB3"/>
+    <img src="https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge&logo=&logoColor=00FFB3"/>
+    <img src="https://img.shields.io/badge/Artificial_Intelligence-black?style=for-the-badge&logo=&logoColor=00FFB3"/>
+  </div>
+
+  <br>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/2024_GOALS-black?style=for-the-badge&logo=&logoColor=black&labelColor=00FFB3"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/Master_Cloud_Architecture-black?style=for-the-badge&logo=&logoColor=00FFB3"/>
+    <img src="https://img.shields.io/badge/Launch_AI_Projects-black?style=for-the-badge&logo=&logoColor=00FFB3"/>
+    <img src="https://img.shields.io/badge/Lead_Open_Source-black?style=for-the-badge&logo=&logoColor=00FFB3"/>
   </div>
 </div>
 
-<!-- Add some space -->
 <br>
 
 <!-- Tech Stack with Animated Icons -->
