@@ -168,13 +168,7 @@ Key deliverables:
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curl-kawsar&layout=compact&langs_count=8&hide_border=true&title_color=ffffff&text_color=8b949e&bg_color=0d1117&border_radius=8&card_width=500" alt="Top languages" />
 </div>
 
-<!-- CONTRIBUTION SNAKE · Setup Guide, Phase 3
-  The workflow lives at .github/workflows/snake.yml. Before uncommenting:
-  1. Repo Settings → Actions → General → Workflow permissions →
-     "Read and write permissions" → Save (repo settings, not account)
-  2. Push, or run the "Generate Snake Animation" workflow manually
-  3. Wait for the run to go green — it creates the `output` branch;
-     the images 404 until then.
+<!-- Contribution snake — regenerated every 12h by .github/workflows/snake.yml -->
 
 <div align="center">
   <picture>
@@ -186,7 +180,6 @@ Key deliverables:
       src="https://raw.githubusercontent.com/curl-kawsar/curl-kawsar/output/github-snake.svg" />
   </picture>
 </div>
--->
 
 ---
 
